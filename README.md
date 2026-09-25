@@ -25,8 +25,10 @@ I care about performance and clean code that's still easy to read. I'd rather bu
 ### Notable Projects I've Built
  
 <p align="center">
-    <a href="https://github.com/SwankyMan88/Axion">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwankyMan88&repo=Axion&theme=dark&hide_border=true&title_color=5cff8c&icon_color=5cff8c" alt="Axion" />
-    </a>
+  <a href="https://github.com/SwankyMan88/Axion">
+    <img src="Axion.png" alt="Axion" width="50%" />
+  </a>
 </p>
+
+
  
