@@ -4,9 +4,9 @@
 
 ## Hey, I'm SwankyMan!
  
-I'm a programmer who makes games, game engines, and the tools that go with them. I like building things from the ground up so I actually understand how they work. That goes for writing a renderer, setting up the systems behind a game, or modeling and animating things myself.
+I'm a programmer who makes games, game engines, and pretty much anything related to games. Well, I like building other things like AIs and stuff like that, but in general, I build pretty much anything. I like building things from the ground up and make them as easy to use and implement new ideas into them.
  
-I got my start on Khan Academy, which is where I learned JavaScript and HTML. I made a lot of programs there and kept pushing to see how far I could take it. Eventually that turned into building my own 3D engine here in GitHub and a lot of other things like porting games from Godot directly into the sandboxed website Khan Academy, and I've been building bigger stuff ever since. My profile link is **[here](http://www.khanacademy.org/profile/IAmChaos)**.
+I got my start on Khan Academy 3 years ago, which is where I learned JavaScript, HTML and CSS. A great computer programming community! I really recommend! I made a lot of programs there and kept pushing to see how far I could take it. But as time grew, I yearned for more, so about present time, I moved onto larger tasks and projects. Eventually that turned into building my own 3D engine here in GitHub and a lot of other things like porting games from Godot directly into the sandboxed website Khan Academy as I was talking a second ago, and I've been building bigger stuff ever since. My Khan Academy profile link is **[here](http://www.khanacademy.org/profile/IAmChaos)**.
  
 ### What I do
  
@@ -20,9 +20,9 @@ I got my start on Khan Academy, which is where I learned JavaScript and HTML. I 
 
 ### How I work
  
-I care about performance and clean code that's still easy to read. I'd rather build something myself and know it inside out than stack up a bunch of libraries I don't understand. I test everything hands-on and keep iterating until it feels right.
+I care about performance and clean code that's still easy to read. I'd rather build something myself and know it inside out than stack up a bunch of libraries. I test everything hands-on and keep iterating until it feels right.
  
-### Projects
+### Notable Projects I've Built
  
 <p align="center">
     <a href="https://github.com/SwankyMan88/Axion">
