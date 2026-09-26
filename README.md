@@ -1,10 +1,8 @@
-<p align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="swankyman88-banner-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="swankyman88-banner-light.svg" />
-        <img src="swankyman88-banner-dark.svg" alt="SwankyMan88" width="100%" />
-    </picture>
-</p>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="swankyman88-banner-dark.svg?raw=true" />
+    <source media="(prefers-color-scheme: light)" srcset="swankyman88-banner-light.svg?raw=true" />
+    <img src="swankyman88-banner-dark.svg?raw=true" alt="SwankyMan88" width="100%" />
+</picture>
 
 ## Hey, I'm SwankyMan!
  
