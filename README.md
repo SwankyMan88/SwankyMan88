@@ -1,5 +1,9 @@
 <p align="center">
-    <img src="swankyman88-banner.svg" alt="SwankyMan88" width="100%" />
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="swankyman88-banner-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="swankyman88-banner-light.svg" />
+        <img src="swankyman88-banner-dark.svg" alt="SwankyMan88" width="100%" />
+    </picture>
 </p>
 
 ## Hey, I'm SwankyMan!
