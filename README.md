@@ -6,9 +6,14 @@
 
 ## Hey, I'm SwankyMan!
  
-I'm a programmer who makes games, game engines, and pretty much anything related to games. Well, I like building other things like AIs and stuff like that, but in general, I build pretty much anything. I like building things from the ground up and make them as easy to use and implement new ideas into them.
+Ik ik its a strange name. I got to admit. However, I did choose it like 4 years ago lol
+
+Well, I suppose you're here to learn a tad bit about me, so... here's a tad bit about me:
+
+
+I'm a programmer who makes games, game engines, and pretty much anything related to games. Well, I like building other things like AIs and stuff like that, but in general, I build pretty much just games and tools. I like building things from the ground up and make them as easy to use and implement new ideas into them. 
  
-I got my start on Khan Academy 3 years ago, which is where I learned JavaScript, HTML and CSS. A great computer programming community! I really recommend! I made a lot of programs there and kept pushing to see how far I could take it. But as time grew, I yearned for more, so about present time, I moved onto larger tasks and projects. Eventually that turned into building my own 3D engine here in GitHub and a lot of other things like porting games from Godot directly into the sandboxed website Khan Academy as I was talking a second ago, and I've been building bigger stuff ever since. My Khan Academy profile link is **[here](http://www.khanacademy.org/profile/IAmChaos)**.
+I got my start on Khan Academy 4 years ago, which is where I learned JavaScript, HTML and CSS. A great computer programming community btw! I really recommend! I made a lot of programs there and kept pushing to see how far I could take it. So a few years pass and I grow every older. And as a result to that, I yearned for more. Hitting fast forward all the way to present time, I moved onto larger tasks and projects! Eventually that turned into building my own 3D engine here in GitHub and a lot of other things like porting games from Godot directly into the sandboxed website Khan Academy as I was talking about a second ago. And I've been building bigger stuff ever since. My Khan Academy profile link is **[here](http://www.khanacademy.org/profile/IAmChaos)**. Check it out some time!
  
 ### What I do
  
