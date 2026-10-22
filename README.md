@@ -23,6 +23,7 @@ I got my start on Khan Academy 4 years ago, which is where I learned JavaScript,
 ### What I'm working on
  
 - **[Axion](https://github.com/SwankyMan88/Axion):** my own WebGPU 3D engine. It's data-oriented and render-only like three.js, so you handle input and controls your way. It's built for power, performance and ease of use, and it loads from a single script tag.
+- **[Ithaca](https://github.com/SwankyMan88/ithaca):** a LLM runner that's all on your pc! Better than LLAMA.cpp in many different ways. Check it out! Details in the link!
 - **Something new:** a bigger game I'm building on Axion, demo is Pine Valley on KA **[here](https://www.khanacademy.org/computer-programming/pine-valley/6354310186516480)**. More on that later 👀
 
 ### How I work
